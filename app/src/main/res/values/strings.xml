@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Football!</string>
+    <string name="fcbString">FC Barcelona</string>
+    <string name="rmString">Real Madrid</string>
+    <string name="fcbmString">FC Bayern Munich</string>
+    <string name="psgString">PSG</string>
+    <string name="lpString">Liverpool</string>
+
+    <string name="fcbInf"> Futbol Club Barcelona, also known as Barcelona and familiarly as Barça, is a professional football club,
+        based in Barcelona, Catalonia, Spain. Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper,
+        the club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" (More than a club).
+        Unlike many other football clubs, the supporters own and operate Barcelona. It is the second most valuable sports team
+        in the world, worth $3.16 billion, and the world\'s second richest football club in terms of revenue, with an annual
+        turnover of €560.8 million. The official Barcelona anthem is the "Cant del Barça", written by Jaume Picas and
+        Josep Maria Espinàs. Domestically, Barcelona has won 23 La Liga, 27 Copa del Rey, 11 Supercopa de España, 3 Copa
+        Eva Duarte and 2 Copa de la Liga trophies, as well as being the record holder for the latter four competitions.
+        In international club football, Barcelona has won five UEFA Champions League titles, a record four UEFA Cup Winners\' Cup,
+        a shared record five UEFA Super Cup, a record three Inter-Cities Fairs Cup and a record three FIFA Club World Cup trophies.
+        Barcelona was ranked first in the IFFHS Club World Ranking for 1997, 2009, 2011, 2012 and 2015 and currently occupies
+        the second position on the UEFA club rankings. The club has a long-standing rivalry with Real Madrid.
+</string>
+    <string name="rmInf">Real Madrid Club de Fútbol, commonly known as Real Madrid, or simply as Real, is a professional football
+        club based in Madrid, Spain. Founded in 1902 as Madrid Football Club, the team has traditionally worn a white home kit since
+        inception. The word Real is Spanish for Royal and was bestowed to the club by King Alfonso XIII in 1920 together with the
+        royal crown in the emblem. The team has played its home matches in the 85,454-capacity Santiago Bernabéu Stadium in downtown
+        Madrid since 1947. Unlike most European sporting entities, Real Madrid\'s members (socios) have owned and operated the club
+        throughout its history. The club is the most valuable sports team in the world, worth €2.5 billion ($3.4 billion) and the
+        world\'s highest-earning football club for 2013–14, with an annual revenue of €549.5 million. The club is one of the most
+        widely supported teams in the world. Real Madrid is one of three founding members of the Primera División that have never
+        been relegated from the top division, along with Athletic Bilbao and Barcelona. The club holds many long-standing rivalries,
+        most notably El Clásico with Barcelona and the El Derbi madrileño with Atlético Madrid. Real Madrid established itself as a
+        major force in both Spanish and European football during the 1950s. The club won five consecutive European Cups, and reached
+        the final seven times.
+</string>
+    <string name="fcbmInf">Fußball-Club Bayern München e.V., commonly known as FC Bayern München , FCB, Bayern Munich, or FC Bayern,
+        is a German sports club based in Munich, Bavaria, Germany. It is best known for its professional football team, which plays
+        in the Bundesliga, the top tier of the German football league system, and is the most successful club in German football history,
+        having won a record 25 national titles and 17 national cups. FC Bayern was founded in 1900 by eleven football players led by
+        Franz John. Although Bayern won its first national championship in 1932, the club was not selected for the Bundesliga at its
+        inception in 1963. The club had its period of greatest success in the middle of the 1970s when, under the captaincy of
+        Franz Beckenbauer, it won the European Cup three times in a row (1974–76). Overall, Bayern has reached ten European Cup/UEFA
+        Champions League finals, most recently winning their fifth title in 2013 as part of a continental treble. Bayern has also won one
+        UEFA Cup, one European Cup Winners\' Cup, one UEFA Super Cup, one FIFA Club World Cup and two Intercontinental Cups, making it one
+        of the most successful European clubs internationally.
+</string>
+    <string name="psgInf">Paris Saint-Germain Football Club, commonly referred to as PSG, is a French professional association football
+        club based in Paris, whose first team play in the highest tier of French football, the Ligue 1. The team was formed in 1970 by
+        the merger of Paris FC and Stade Saint-Germain. Domestically, PSG have won five Ligue 1 titles, nine Coupe de France, a record
+        five Coupe de la Ligue, five Trophée des Champions and the Ligue 2 title once. In international club football, the Parisian side
+        have won one UEFA Cup Winners\' Cup and one UEFA Intertoto Cup. PSG is the joint-most successful club in France and one of only
+        two French clubs (with Olympique de Marseille) to win a major European club competition. The Parc des Princes has been the home
+        stadium of PSG since 1974. The Camp des Loges has served as the club\'s training centre since 1970. The Tournoi de Paris has
+        been hosted by the capital club at Le Parc since 1975. PSG shares an intense rivalry with Marseille and contest the most notorious
+        football match in France, known as Le Classique. PSG is the second-highest supported football club in France after rivals Marseille.
+        Qatar Sports Investments became the club\'s sole shareholder in 2012. The takeover made PSG the richest club in France and amongst
+        the richest in the world. The crest and shirt of the club were mainly designed by Daniel Hechter. The traditional shirt is blue with
+        a red central vertical bar framed by white edgings.
+</string>
+    <string name="lpInf">Liverpool Football Club is a Premier League football club based in Liverpool, Merseyside, England. The club
+        has won more European and domestic trophies than any other English team with five European Cups, three UEFA Cups, three UEFA
+        Super Cups, 18 League titles, seven FA Cups, a record eight League Cups, and 15 FA Community Shields. The club was founded in
+        1892 and joined the Football League the following year. The club has played at Anfield since its formation. Liverpool established
+        itself as a major force in both English and European football during the 1970s and \'80s when Bill Shankly and Bob Paisley led the
+        club to 11 League titles and seven European trophies. Under the management of Rafa Benítez and captained by Steven Gerrard Liverpool
+        re-emerged as European champions once again, winning the 2005 UEFA Champions League Final against Milan in spite of being 3–0 down
+        at half time. Liverpool was the ninth highest-earning football club in the world for 2013–14, with an annual revenue of €306 million,
+        and the world\'s eighth most valuable football club in 2015, valued at $982 million. The club holds many long-standing rivalries, most
+        notably the North West Derby against Manchester United and the Merseyside derby with Everton.
+</string>
+</resources>
